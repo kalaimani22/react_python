@@ -1,0 +1,15 @@
+# .gitignore
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node/React
+node_modules/
+build/
+.env
+
+# General
+.DS_Store
+*.log
