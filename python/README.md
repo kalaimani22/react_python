@@ -4,6 +4,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Flas
 
 ## Project Structure
 
+
 ```
 my-crud-app
 ├── src
