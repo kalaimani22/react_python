@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   const [response, setResponse] = useState(null);
-  fetch("http://127.0.0.1:8000/api/items/").then(
+  fetch("https://react-python-1ckc.onrender.com/api/items/").then(
     (response) => {
       return response.json();
     }
